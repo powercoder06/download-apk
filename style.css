@@ -1,0 +1,25 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+ 
+    background-color: black;
+}
+
+.anchor{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 20vh auto;
+    padding: 10%;
+    width: 50vw;
+    height: 20vh;
+    color: aliceblue;
+    background-color: rgba(0, 255, 255, 0.338);
+}
+.anchor a {
+    color: aliceblue;
+
+}
